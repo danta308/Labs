@@ -1,1 +1,1 @@
-# Labs
+Git and Github Course 
